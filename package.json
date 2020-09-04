@@ -12,7 +12,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "body-parser": "^1.18.3",
-    "mongodb": "^2.2.3",
+    "mongodb": "^3.6.1",
     "request": "^2.88.0"
   },
   "engines": {
